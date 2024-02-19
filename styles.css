@@ -2,6 +2,8 @@ body {
 	width: 9in ;
 	height: 11.5in;
 	margin: auto ;
+	text-align: center ;
+	font-family:'Courier New'
 }
 
 .page_outer {
